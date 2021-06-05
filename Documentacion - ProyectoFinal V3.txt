@@ -1,26 +1,5 @@
 GG_CULTURE - Arismendy Herik
 
-PROYECTO FINAL VERSION 03
+Desafio complementario Clase 11
 
-
-- En esta nueva version aplique las correciones de entregas pasadas, como lo fue el menú y la organización.
-
-- Aplique  bootstrap para el maquetado general de las paginas, implementando a su vez una hoja de estilos propia que me sirvio para customizar
-  los debidos elementos de acuerdo al proposito que fuese estipulado en mi pagina.
-
-- Re organice el BRAND.HMTL ya que aunque no es una pagina con mucho contenido si me parecio que debia tener un orden lo poco que tuviese. 
-
-- Implemente más transformaciones y animaciones sutilmente en los apartados de todo mi sitio web (Recomiendo revisar siempre desde el inicio de la página ya que con el scroll se activan algunas funciones)
-
-- Generé nuevos formularios en las secciones donde los tenia antes, volviendo los mismos mas interesantes e iteractivos. 
-
-- Aclaro que no comprimí aun las debidas imagenes / videos (contenido multimedia), por ende algunas paginas tienen cierto "delay" al cargar.
-esto será implementado en futuras versiones.
-
-
-
-                                                            CEO
-
-
-Link GoogleDocs : https://docs.google.com/document/d/1UP4Hk823xzGVIgd-J_UAhfAIwLzAsyicr7LxhF42tQk/edit
-Link Map-Site : https://www.gloomaps.com/Mh3tTRtwz7
+Aplique SAAS a la mitad de los html con los que actualmente cuento, para transcribir y mejorar lo que ya tenia en la hoja de estilo. 
