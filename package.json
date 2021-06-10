@@ -11,13 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/Herik22/Proyecto-Coder-House-.git"
   },
-  "author": "",
+  "author": "HerikUribe",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Herik22/Proyecto-Coder-House-/issues"
   },
   "homepage": "https://github.com/Herik22/Proyecto-Coder-House-#readme",
-  "description": "",
+  "description": "Sitio web  correspondiente a la marca  nacida en buenos aires GG-CULTURE, la cual servirá como cara principal de la misma.",
   "devDependencies": {
     "node-sass": "^6.0.0",
     "nodemon": "^2.0.7"

@@ -20,6 +20,17 @@ $colorTurqueza  : turquoise;
     margin: 0;
 }
 
+body{
+    background-color: $colorBlack00;
+}
+
+.centrar{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
 .titulos{
     align-self: center;
     text-align: center;
@@ -31,6 +42,14 @@ $colorTurqueza  : turquoise;
 .bg--black02 {
     background-color: $colorBlack00;
 }
+
+.color--white{
+    color: $colorWhite;
+}
+.color--moradomarca{
+    color: $colorMoradoMarca;
+}
+
 
 .footerGG{
     background-color: $colorBlack02;

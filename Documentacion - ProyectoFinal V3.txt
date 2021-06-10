@@ -1,5 +1,7 @@
 GG_CULTURE - Arismendy Herik
 
-Desafio complementario Clase 11
+Cuarta Entrega proyecto final
 
-Aplique SAAS a la mitad de los html con los que actualmente cuento, para transcribir y mejorar lo que ya tenia en la hoja de estilo. 
+Aplique SAAS para modelar todo el sitio, haciendo uso de las anidaciones y variables constantemente.
+Arregle centrados de algunos textos y aplique algunos colores a titulos y textos.
+adjunto el package.json con informacion pertinente al proyecto.  
